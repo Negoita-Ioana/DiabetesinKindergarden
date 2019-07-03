@@ -1,0 +1,59 @@
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\DPR_CNAS.exe.config
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\DPR_CNAS.exe
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\DPR_CNAS.pdb
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csprojAssemblyReference.cache
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.Form1.resources
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.Properties.Resources.resources
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csproj.GenerateResource.cache
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csproj.CoreCompileInputs.cache
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csproj.CopyComplete
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.exe
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.pdb
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\MaterialSkin.dll
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.dashboard.resources
+C:\Users\FISHU\Desktop\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\DPR_CNAS.exe.config
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\DPR_CNAS.exe
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\DPR_CNAS.pdb
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\MaterialSkin.dll
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csprojAssemblyReference.cache
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.dashboard.resources
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.Form1.resources
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.Properties.Resources.resources
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csproj.GenerateResource.cache
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csproj.CoreCompileInputs.cache
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csproj.CopyComplete
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.exe
+C:\Users\Veve\Desktop\stellar\New folder\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.pdb
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\icudt.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\x64\pdfium.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\x86\pdfium.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\pdfium_x64.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\pdfium_x86.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\DPR_CNAS.exe.config
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\DPR_CNAS.exe
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\DPR_CNAS.pdb
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Google.Protobuf.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\MaterialSkin.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\MySql.Data.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Patagames.Pdf.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Patagames.Pdf.WinForms.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Patagames.Pdf.Wpf.dll
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Google.Protobuf.xml
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\MySql.Data.xml
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Patagames.Pdf.xml
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Patagames.Pdf.WinForms.xml
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\bin\Debug\Patagames.Pdf.Wpf.xml
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csprojAssemblyReference.cache
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.dashboard.resources
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.Form1.resources
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.Properties.Resources.resources
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csproj.GenerateResource.cache
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.exe.licenses
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csproj.CoreCompileInputs.cache
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.csproj.CopyComplete
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.exe
+C:\Users\FISHU\Desktop\programming_project\DPR_CNAS\DPR_CNAS\DPR_CNAS\obj\Debug\DPR_CNAS.pdb
